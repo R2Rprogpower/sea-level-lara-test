@@ -63,9 +63,9 @@ Enpoints:
 		Body => raw => json: 
 			{	
 			    "shipmentId": "1",
-				"senderId": "1",
-				"receiverId": "2",
-				"postalService": "up"
+			    "senderId": "1",
+			    "receiverId": "2",
+			    "postalService": "up"
 		
 			}
 				
