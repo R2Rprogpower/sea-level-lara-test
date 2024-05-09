@@ -12,7 +12,8 @@ To start the app:
 
 	php artisan migrate:fresh --seed
 
-Enpoints:	
+Enpoints:
+
 	GET /setup 
 		Copy the admin token to use it for Auth by Bearer Token with POSTman.
 
