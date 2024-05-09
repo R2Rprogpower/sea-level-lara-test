@@ -6,6 +6,8 @@ Programming GoF Patterns used:
 		Strategy: To select the correct postal service.
 		
 To start the app:
+
+
 	docker-compose up
 
 	php artisan serve
